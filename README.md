@@ -1,6 +1,16 @@
 # HOI-BrainMod
 HOI-BrainMod: Workshop on Brain Modeling and High-Order Interactions
 
+## Facilitators
+
+Marilyn Gatica, Northeastern University London, UK, and Institute for Advanced Study (IAS), Amsterdam.
+
+Carlos Coronel, Trinity College, Dublin, Irland.
+
+Mattero Neri, Institute of Neuroscience of la Timone, Marseille, France.
+
+Ruben Herzog, Paris Brain Institute, Paris, France
+
 ## TL;DR
 **Overview**  
 This workshop integrates data-driven and modeling approaches to explore high-order interactions and dynamic whole-brain models. Through seminars and hands-on tutorials, participants will learn innovative techniques with applications in aging, neurodegeneration, and consciousness. We invite researchers and students to register and join us!
