@@ -30,14 +30,14 @@ Through seminars and hands-on tutorials, participants will learn about advanced 
 
 | Time           | Session                            |
 |----------------|------------------------------------|
-| 08:30 – 09:00  | Coffee                             |
+| 08:30 – 09:00  | **Coffee**                         |
 | 09:00 – 09:30  | Workshop Overview                  |
 | 09:30 – 10:30  | Whole-brain Modelling              |
-| 10:30 – 11:00  | Coffee Break                       |
+| 10:30 – 11:00  | **Coffee Break**                   |
 | 11:00 – 12:30  | Tutorials: Whole-brain Models      |
 | 12:30 – 13:30  | **Lunch**                          |
 | 13:30 – 14:15  | High-order Fundamentals            |
 | 14:15 – 15:00  | Tutorial: HOI                      |
-| 15:00 – 15:30  | Coffee Break                       |
+| 15:00 – 15:30  | **Coffee Break**                   |
 | 15:30 – 16:15  | High-order Applications            |
 | 16:15 – 17:00  | Tutorial: THOI                     |
