@@ -1,6 +1,8 @@
 # HOI-BrainMod
 HOI-BrainMod: Workshop on Brain Modeling and High-Order Interactions
 
+**workshop, scheduled 7th May 09:00-17:00**
+
 ## Facilitators
 
 Marilyn Gatica, Northeastern University London, UK, and Institute for Advanced Study (IAS), Amsterdam.
@@ -23,3 +25,19 @@ Integrating data-driven and modeling approaches is crucial for understanding and
 
 **What Participants Will Learn**  
 Through seminars and hands-on tutorials, participants will learn about advanced biophysical modeling and high-order interactions with applications to functional brain data. Participants will discover how high-order interactions and whole-brain models are transforming our understanding of clinical and cognitive domains, with a particular focus on aging, neurodegeneration, neuromodulation, and consciousness.
+
+## Workshop Schedule
+
+| Time           | Session                            |
+|----------------|------------------------------------|
+| 08:30 – 09:00  | Coffee                             |
+| 09:00 – 09:30  | Workshop Overview                  |
+| 09:30 – 10:30  | Whole-brain Modelling              |
+| 10:30 – 11:00  | Coffee Break                       |
+| 11:00 – 12:30  | Tutorials: Whole-brain Models      |
+| 12:30 – 13:30  | **Lunch**                          |
+| 13:30 – 14:15  | High-order Fundamentals            |
+| 14:15 – 15:00  | Tutorial: HOI                      |
+| 15:00 – 15:30  | Coffee Break                       |
+| 15:30 – 16:15  | High-order Applications            |
+| 16:15 – 17:00  | Tutorial: THOI                     |
