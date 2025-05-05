@@ -11,7 +11,7 @@ Carlos Coronel, BrainLat Institute, Universidad Adolfo Ibañez, Chile, & Trinity
 
 Mattero Neri, Institute of Neuroscience of la Timone, Marseille, France.
 
-Ruben Herzog, Paris Brain Institute, Paris, France
+Ruben Herzog, IFISC, Palma de Mallorca, Spain.
 
 ## TL;DR
 **Overview**  
