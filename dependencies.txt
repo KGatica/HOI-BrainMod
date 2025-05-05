@@ -1,0 +1,13 @@
+###### For the modelling tutorials: /01Notebooks_WholeBrain
+numpy
+scipy
+matplotlib
+networkx
+numba
+nilearn
+nibabel
+###### Additionals for the THOI tutorials: /03Notebooks_WholeBrain
+pingouin
+pandas
+seaborn
+scikit-learn
