@@ -18,8 +18,16 @@
 **Overview**  
 This workshop integrates data-driven and modeling approaches to explore high-order interactions and dynamic whole-brain models. Through seminars and hands-on tutorials, participants will learn innovative techniques with applications in aging, neurodegeneration, and consciousness. We invite researchers and students to register and join us!
 
-## Dependencies
-To ensure the tutorials run smoothly, please install the following dependencies for the [modelling](https://github.com/KGatica/HOI-BrainMod/blob/main/dependencies.txt), [HOI](https://github.com/brainets/hoi), [XGI](https://xgi.readthedocs.io/en/stable/installing.html) and [THOI](https://github.com/Laouen/THOI) tutorials.
+##  🚀 Dependencies (Important!)
+
+To ensure the tutorials run smoothly, **please install the required packages** for each part of the workshop:
+
+- ✅ [**Modelling dependencies**](https://github.com/KGatica/HOI-BrainMod/blob/main/dependencies.txt)
+- ✅ [**HOI package**](https://github.com/brainets/hoi)
+- ✅ [**XGI package**](https://xgi.readthedocs.io/en/stable/installing.html)
+- ✅ [**THOI package**](https://github.com/Laouen/THOI)
+
+> ⚠️ **Note:** We recommend creating a fresh virtual environment (e.g., with `conda` or `venv`) before installing the dependencies.
 
 ## Abstract
 
