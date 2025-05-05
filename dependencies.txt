@@ -6,7 +6,7 @@ networkx
 numba
 nilearn
 nibabel
-###### Additionals for the THOI tutorials: /03Notebooks_WholeBrain
+###### Additionally, for the THOI tutorials: /03Notebooks_WholeBrain
 pingouin
 pandas
 seaborn
