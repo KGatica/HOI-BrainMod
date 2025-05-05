@@ -5,13 +5,13 @@
 
 ## Facilitators
 
-Marilyn Gatica, Northeastern University London, UK, and Institute for Advanced Study (IAS), Amsterdam.
+(Marilyn Gatica)[https://ias.uva.nl/community/fellows/current-fellows/marilyn-gatica.html], Northeastern University London, UK, and Institute for Advanced Study (IAS), Amsterdam.
 
-Carlos Coronel, BrainLat Institute, Universidad Adolfo Ibañez, Chile, & Trinity College, Dublin, Ireland.
+(Carlos Coronel)[https://www.gbhi.org/profiles/carlos-coronel], BrainLat Institute, Universidad Adolfo Ibañez, Chile, & Trinity College, Dublin, Ireland.
 
-Mattero Neri, Institute of Neuroscience of la Timone, Marseille, France.
+(Mattero Neri)[https://scholar.google.com/citations?user=ubwQC-AAAAAJ&hl=it], Institute of Neuroscience of la Timone, Marseille, France.
 
-Ruben Herzog, IFISC, Palma de Mallorca, Spain.
+(Ruben Herzog)[https://scholar.google.com/citations?user=GDW5LSsAAAAJ&hl=es], IFISC, Palma de Mallorca, Spain.
 
 ## TL;DR
 **Overview**  
