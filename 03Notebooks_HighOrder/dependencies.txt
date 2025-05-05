@@ -1,1 +1,7 @@
-
+## For the THOI package, please visit:
+https://github.com/Laouen/THOI
+###### Additionally, for the THOI tutorials: /03Notebooks_WholeBrain
+pingouin
+pandas
+seaborn
+scikit-learn
