@@ -7,7 +7,7 @@
 
 Marilyn Gatica, Northeastern University London, UK, and Institute for Advanced Study (IAS), Amsterdam.
 
-Carlos Coronel, Trinity College, Dublin, Irland.
+Carlos Coronel, BrainLat Institute, Universidad Adolfo Ibañez, Chile, & Trinity College, Dublin, Ireland.
 
 Mattero Neri, Institute of Neuroscience of la Timone, Marseille, France.
 
