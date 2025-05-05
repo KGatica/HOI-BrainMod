@@ -28,6 +28,49 @@ Integrating data-driven and modeling approaches is crucial for understanding and
 **What Participants Will Learn**  
 Through seminars and hands-on tutorials, participants will learn about advanced biophysical modeling and high-order interactions with applications to functional brain data. Participants will discover how high-order interactions and whole-brain models are transforming our understanding of clinical and cognitive domains, with a particular focus on aging, neurodegeneration, neuromodulation, and consciousness.
 
+## 🧠 Workshop Schedule
+
+**8:30–9:00** — *Registration and Coffee*  
+
+### Part 1: Whole-Brain Models (9:00–12:30)
+
+- **9:00–9:30** — *Opening Words, Introduction & Workshop Overview* (Marilyn Gatica)  
+  - Why use mathematical models and different scales?  
+  - Why use high-order interactions in neuroscience?  
+- **9:30–10:30** — *Basics of Whole-Brain Modeling* (Carlos Coronel)  
+  - Core elements of whole-brain models and model fitting  
+  - Applications: neurodegeneration and brain clocks  
+- **10:30–11:00** — *Coffee Break*  
+- **11:00–12:30** — *Tutorials*  
+  - Whole-brain model fitting and applications (Carlos Coronel)  
+  - Whole-brain models and high-order dynamics (Marilyn Gatica)  
+
+**12:30–13:30** — *Lunch Break*
+
+---
+
+### Part 2: High-Order Interactions, HOI and XGI (13:30–15:30)
+
+- **13:30–14:15** — *Information Theory* (Matteo Neri)  
+  - Fundamentals of information theory  
+  - Introduction to high-order interactions  
+- **14:15–15:00** — *Tutorial: HOI and XGI Packages* (Matteo Neri)  
+  - Hands-on with the HOI package
+    
+**15:00–15:30** — *Coffee Break*
+
+---
+
+### Part 3: High-Order Interactions and THOI (15:30–17:00)
+
+- **15:30–16:15** — *Applications of High-Order Interactions* (Ruben Herzog)  
+  - Neurodegeneration  
+  - Psychedelics and consciousness  
+- **16:15–16:55** — *Tutorial: THOI Package* (Ruben Herzog)  
+- **16:55–17:00** — *Closing Remarks* (Marilyn Gatica)
+
+
+
 ## Workshop Schedule
 
 | Time           | Session                            |
