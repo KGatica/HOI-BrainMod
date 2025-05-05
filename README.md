@@ -18,7 +18,7 @@ Ruben Herzog, IFISC, Palma de Mallorca, Spain.
 This workshop integrates data-driven and modeling approaches to explore high-order interactions and dynamic whole-brain models. Through seminars and hands-on tutorials, participants will learn innovative techniques with applications in aging, neurodegeneration, and consciousness. We invite researchers and students to register and join us!
 
 ## Dependencies
-To ensure the tutorials run smoothly, please install the following dependencies for the [modelling](https://github.com/KGatica/HOI-BrainMod/blob/main/model_dependencies.txt), [HOI](https://github.com/brainets/hoi), [XGI](https://xgi.readthedocs.io/en/stable/installing.html) and [THOI](https://github.com/Laouen/THOI) tutorials.
+To ensure the tutorials run smoothly, please install the following dependencies for the [modelling](https://github.com/KGatica/HOI-BrainMod/blob/main/dependencies.txt), [HOI](https://github.com/brainets/hoi), [XGI](https://xgi.readthedocs.io/en/stable/installing.html) and [THOI](https://github.com/Laouen/THOI) tutorials.
 
 ## Abstract
 
