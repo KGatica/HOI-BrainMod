@@ -1,4 +1,0 @@
-## For HOI, please visit
-https://github.com/brainets/hoi
-## For XGI, please visit
-https://xgi.readthedocs.io/en/stable/installing.html
