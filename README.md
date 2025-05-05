@@ -43,8 +43,8 @@ Through seminars and hands-on tutorials, participants will learn about advanced 
   - Examples of whole-brain modeling: neurodegeneration and brain clocks.
 **10:30–11:00** — *Coffee Break*  
 **11:00–12:30** — *Tutorials*  
-  - Whole-brain model fitting and applications (Carlos Coronel)  
-  - Whole-brain models and high-order (Marilyn Gatica)  
+  - [Whole-brain model fitting and applications](01Notebooks_WholeBrain) (Carlos Coronel)  
+  - [Whole-brain models and high-order](01Notebooks_WholeBrain) (Marilyn Gatica)  
 
 **12:30–13:30** — *Lunch Break*
 
@@ -55,7 +55,7 @@ Through seminars and hands-on tutorials, participants will learn about advanced 
 **13:30–14:15** — *Information Theory* (Matteo Neri)  
   - Fundamentals of information theory  
   - Introduction to high-order interactions  
-**14:15–15:00** — *Tutorial: HOI and XGI Packages* (Matteo Neri)  
+**14:15–15:00** — *[Tutorial: HOI and XGI Packages]*(02Notebooks_HighOrder) (Matteo Neri)  
     
 **15:00–15:30** — *Coffee Break*
 
@@ -66,7 +66,7 @@ Through seminars and hands-on tutorials, participants will learn about advanced 
 **15:30–16:15** — *Applications of High-Order Interactions* (Ruben Herzog)  
   - Neurodegeneration  
   - Psychedelics and consciousness  
-**16:15–16:55** — *Tutorial: THOI Package* (Ruben Herzog)  
+**16:15–16:55** — *[Tutorial: THOI Package]*(03Notebooks_HighOrder) (Ruben Herzog)  
 **16:55–17:00** — *Closing Remarks* (Marilyn Gatica)
 
 
