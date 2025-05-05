@@ -37,11 +37,14 @@ Through seminars and hands-on tutorials, participants will learn about advanced 
 
 **9:00–9:30** — *Opening Words, Introduction & Workshop Overview* (Marilyn Gatica)  
   - Why use mathematical models and different scales?  
-  - Why use high-order interactions in neuroscience?  
+  - Why use high-order interactions in neuroscience?
+  - 
 **9:30–10:30** — *Basics of Whole-Brain Modeling* (Carlos Coronel)  
   - Basic elements of whole-brain models and model fitting
   - Examples of whole-brain modeling: neurodegeneration and brain clocks.
-**10:30–11:00** — *Coffee Break*  
+  - 
+**10:30–11:00** — *Coffee Break*
+    
 **11:00–12:30** — *Tutorials*  
   - [Whole-brain model fitting and applications](01Notebooks_WholeBrain) (Carlos Coronel)  
   - [Whole-brain models and high-order](01Notebooks_WholeBrain) (Marilyn Gatica)  
@@ -55,7 +58,8 @@ Through seminars and hands-on tutorials, participants will learn about advanced 
 **13:30–14:15** — *Information Theory* (Matteo Neri)  
   - Fundamentals of information theory  
   - Introduction to high-order interactions  
-**14:15–15:00** — *[Tutorial: HOI and XGI Packages]*(02Notebooks_HighOrder) (Matteo Neri)  
+**14:15–15:00** — *Tutorials*
+  -[HOI and XGI Packages](02Notebooks_HighOrder) (Matteo Neri)  
     
 **15:00–15:30** — *Coffee Break*
 
@@ -65,8 +69,11 @@ Through seminars and hands-on tutorials, participants will learn about advanced 
 
 **15:30–16:15** — *Applications of High-Order Interactions* (Ruben Herzog)  
   - Neurodegeneration  
-  - Psychedelics and consciousness  
-**16:15–16:55** — *[Tutorial: THOI Package]*(03Notebooks_HighOrder) (Ruben Herzog)  
+  - Psychedelics and consciousness
+  - 
+**16:15–16:55** — *Tutorials*
+  -[THOI Package](03Notebooks_HighOrder) (Ruben Herzog)
+
 **16:55–17:00** — *Closing Remarks* (Marilyn Gatica)
 
 
