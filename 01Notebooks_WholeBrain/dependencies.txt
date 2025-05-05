@@ -1,1 +1,7 @@
-
+numpy
+scipy
+matplotlib
+networkx
+numba
+nilearn
+nibabel
