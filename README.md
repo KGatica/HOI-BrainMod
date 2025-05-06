@@ -11,7 +11,7 @@
 
 [Matteo Neri](https://scholar.google.com/citations?user=ubwQC-AAAAAJ&hl=it), Institute of Neuroscience of la Timone, Marseille, France.  
 
-[Ruben Herzog](https://scholar.google.com/citations?user=GDW5LSsAAAAJ&hl=es), IFISC, Palma de Mallorca, Spain.
+[Ruben Herzog](https://scholar.google.com/citations?user=GDW5LSsAAAAJ&hl=es), Institute for Cross-Disciplinary Physics and Complex, Palma de Mallorca, Spain.
 
 
 ## TL;DR
