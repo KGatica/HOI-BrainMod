@@ -3,6 +3,8 @@
 
 **workshop, scheduled 7th May 09:00-17:00**
 
+** Institute for Advanced Study (IAS) ** 
+
 ## Facilitators
 
 [Marilyn Gatica](https://ias.uva.nl/community/fellows/current-fellows/marilyn-gatica.html), Northeastern University London, UK, and Institute for Advanced Study (IAS), Amsterdam.  
