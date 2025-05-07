@@ -11,3 +11,9 @@ pingouin
 pandas
 seaborn
 scikit-learn
+jax
+jax-tqdm
+xgi
+hoi
+thoi
+
