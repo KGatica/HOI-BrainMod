@@ -3,7 +3,7 @@
 
 **workshop, scheduled 7th May 09:00-17:00**
 
-**Institute for Advanced Study (IAS)** 
+**Institute for Advanced Study (IAS)** and **Dutch Institute for Emergent Phenomena (DIEP)**
 
 ## Facilitators
 
